@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/keke.iml" filepath="$PROJECT_DIR$/keke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-common/keke-common.iml" filepath="$PROJECT_DIR$/keke-parent/keke-common/keke-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-common-db/keke-common-db.iml" filepath="$PROJECT_DIR$/keke-parent/keke-common-db/keke-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-eureka/keke-eureka.iml" filepath="$PROJECT_DIR$/keke-parent/keke-eureka/keke-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-gateway/keke-gateway.iml" filepath="$PROJECT_DIR$/keke-parent/keke-gateway/keke-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-parent.iml" filepath="$PROJECT_DIR$/keke-parent/keke-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-service/keke-service.iml" filepath="$PROJECT_DIR$/keke-parent/keke-service/keke-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-service-api/keke-service-api.iml" filepath="$PROJECT_DIR$/keke-parent/keke-service-api/keke-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-service-api/keke-service-goods-api/keke-service-goods-api.iml" filepath="$PROJECT_DIR$/keke-parent/keke-service-api/keke-service-goods-api/keke-service-goods-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keke-parent/keke-web/keke-web.iml" filepath="$PROJECT_DIR$/keke-parent/keke-web/keke-web.iml" />
+    </modules>
+  </component>
+</project>

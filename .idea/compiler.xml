@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="keke-eureka" />
+        <module name="keke-web" />
+        <module name="keke-common" />
+        <module name="keke-common-db" />
+        <module name="keke-service-goods-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="keke-common" target="1.8" />
+      <module name="keke-common-db" target="1.8" />
+      <module name="keke-eureka" target="1.8" />
+      <module name="keke-gateway" target="1.8" />
+      <module name="keke-parent" target="1.8" />
+      <module name="keke-service" target="1.8" />
+      <module name="keke-service-api" target="1.8" />
+      <module name="keke-service-goods-api" target="1.8" />
+      <module name="keke-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="keke-common" options="-parameters" />
+      <module name="keke-common-db" options="-parameters" />
+      <module name="keke-eureka" options="-parameters" />
+      <module name="keke-gateway" options="-parameters" />
+      <module name="keke-service" options="-parameters" />
+      <module name="keke-service-api" options="-parameters" />
+      <module name="keke-service-goods-api" options="-parameters" />
+      <module name="keke-web" options="-parameters" />
+    </option>
+  </component>
+</project>

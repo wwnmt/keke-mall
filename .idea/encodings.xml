@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-service-api/keke-service-goods-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/keke-parent/keke-web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

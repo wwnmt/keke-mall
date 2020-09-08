@@ -1,0 +1,54 @@
+spring:
+  application:
+    name: keke-eureka
+server:
+  port: 7001
+eureka:
+  instance:
+    prefer-ip-address: false
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka/
+
+#spring:
+#  application:
+#    name: keke-eureka
+#  profiles: server1
+#server:
+#  port: 7001
+#eureka:
+#  instance:
+#    hostname: server1
+#    prefer-ip-address: false
+#  client:
+#    service-url:
+#      defaultZone: http://server2:7002/eureka/, http://server3:7003/eureka/
+#---
+#spring:
+#  application:
+#    name: keke-eureka
+#  profiles: server2
+#server:
+#  port: 7002
+#eureka:
+#  instance:
+#    hostname: server2
+#    prefer-ip-address: false
+#  client:
+#    service-url:
+#      defaultZone: http://server1:7001/eureka/, http://server3:7003/eureka/
+#---
+#spring:
+#  application:
+#    name: keke-eureka
+#  profiles: server3
+#server:
+#  port: 7003
+#eureka:
+#  instance:
+#    hostname: server3
+#    prefer-ip-address: false
+#  client:
+#    service-url:
+#      defaultZone: http://server1:7001/eureka/, http://server2:7002/eureka/
+#
